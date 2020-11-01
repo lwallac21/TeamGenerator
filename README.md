@@ -31,4 +31,4 @@ No one else contributed
 Please do not contribute or edit this repo. It is a solo project.
 
 ## License
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
